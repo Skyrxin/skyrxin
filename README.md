@@ -3,7 +3,7 @@
 <p align="center"><a><img src="https://github.com/Ressal0/ressal0/blob/main/pics/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/></a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/abdellah-ressal-773067227"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abdellah-ressal-773067227/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
