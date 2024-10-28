@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdellah Ressal</h1>
 <h3 align="center">A Master Student in Cybersecurity</h3>
-<p align="center"><a><img src="https://github.com/Ressal0/ressal0/blob/main/pics/1_rv7bzPRCHMsOv1vI_gHyfg.gif"/></a></p>
+<p align="center"><a><img src="https://github.com/Ressal0/ressal0/blob/main/pics/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/></a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/abdellah-ressal-773067227"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
