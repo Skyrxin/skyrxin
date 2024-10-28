@@ -22,7 +22,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff">
 </div>
 <p></p>
-<p align="center"><a href="https://github.com/ressal0/convoychat">
+<p align="center"><a href="https://github.com/ressal0/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ressal0&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a></p>
 <h3 align="center">github Stats:</h3>
