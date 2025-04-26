@@ -28,12 +28,12 @@
 <h3 align="center">github Stats:</h3>
 <p align="center">
 <a href="https://github.com/ressal0/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ressal0&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ressal0&theme=merko" />
 </a>
 <h1></h1>
 <h3 align="center">Top Repositories:</h3>
 <p align="center"><a href="https://github.com/ressal0/Web-Scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=Web-Scanner&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=Web-Scanner&theme=merko" />
 </a>
 <a href="https://github.com/ressal0/Medical-Records-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=Medical-Records-Manager&theme=merko" />
