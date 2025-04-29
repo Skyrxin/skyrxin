@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdellah Ressal</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?&size=30&duration=4000&pause=1000&color=ABD200&width=600&height=52&lines=A+Master's+Student+in+Cybersecurity" alt="Typing SVG" /></a></h3>
-<p align="center"><a><img src="https://github.com/Ressal0/ressal0/blob/main/pics/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/></a></p>
+<p align="center"><a><img src="https://github.com/Skyrxin/Skyrxin0/blob/main/pics/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/></a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/abdellah-ressal-773067227/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
@@ -22,25 +22,25 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff">
 </div>
 <p></p>
-<p align="center"><a href="https://github.com/ressal0/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ressal0&theme=merko&layout=compact&langs_count=8&card_width=320" />
+<p align="center"><a href="https://github.com/skyrxin/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryxin&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a></p>
 <h3 align="center">github Stats:</h3>
 <p align="center">
-<a href="https://github.com/ressal0/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ressal0&theme=merko" />
+<a href="https://github.com/skyrxin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skyrxin&theme=merko" />
 </a>
 <h1></h1>
 <h3 align="center">Top Repositories:</h3>
-<p align="center"><a href="https://github.com/ressal0/Web-Scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=Web-Scanner&theme=merko" />
+<p align="center"><a href="https://github.com/skyrxin/Web-Scanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrxin&repo=Web-Scanner&theme=merko" />
 </a>
-<a href="https://github.com/ressal0/Medical-Records-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=Medical-Records-Manager&theme=merko" />
+<a href="https://github.com/skryxin/Medical-Records-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrxin&repo=Medical-Records-Manager&theme=merko" />
 </a>
-<a href="https://github.com/ressal0/AES-file-Encryption-Decryption">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=AES-file-Encryption-Decryption&theme=merko&description_lines_count=1" />
+<a href="https://github.com/skyrxin/AES-file-Encryption-Decryption">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrxin&repo=AES-file-Encryption-Decryption&theme=merko&description_lines_count=1" />
 </a>
-<a href="https://github.com/ressal0/Disk-Sanitizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ressal0&repo=Disk-Sanitizer&theme=merko" />
+<a href="https://github.com/skryxin/Disk-Sanitizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrxin&repo=Disk-Sanitizer&theme=merko" />
 </a></p>
