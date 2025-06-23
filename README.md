@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah Ressal</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?&size=30&duration=4000&pause=1000&color=ABD200&width=600&height=52&lines=A+Master's+Student+in+Cybersecurity" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ABD200&width=435&lines=Master's+Student+in+Cybersecurity" alt="Typing SVG" /></a></h3>
 <p align="center"><a><img src="https://github.com/Skyrxin/Skyrxin/blob/main/pics/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/></a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
