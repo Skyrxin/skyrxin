@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdellah Ressal</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ABD200&width=435&lines=Master's+Student+in+Cybersecurity" alt="Typing SVG" /></a></h3>
 <p align="center"><a><img src="https://github.com/Skyrxin/Skyrxin/blob/main/pics/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/></a></p>
-<h3 align="center">Connect with me:</h3>
+<!--<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/abdellah-ressal-773067227/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+</p>-->
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
